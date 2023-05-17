@@ -1,0 +1,15 @@
+C:\Users\ahmed\source\repos\sa\sa\bin\Debug\net6.0\sa.exe
+C:\Users\ahmed\source\repos\sa\sa\bin\Debug\net6.0\sa.deps.json
+C:\Users\ahmed\source\repos\sa\sa\bin\Debug\net6.0\sa.runtimeconfig.json
+C:\Users\ahmed\source\repos\sa\sa\bin\Debug\net6.0\sa.dll
+C:\Users\ahmed\source\repos\sa\sa\bin\Debug\net6.0\sa.pdb
+C:\Users\ahmed\source\repos\sa\sa\obj\Debug\net6.0\sa.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\sa\sa\obj\Debug\net6.0\sa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source\repos\sa\sa\obj\Debug\net6.0\sa.AssemblyInfoInputs.cache
+C:\Users\ahmed\source\repos\sa\sa\obj\Debug\net6.0\sa.AssemblyInfo.cs
+C:\Users\ahmed\source\repos\sa\sa\obj\Debug\net6.0\sa.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\sa\sa\obj\Debug\net6.0\sa.dll
+C:\Users\ahmed\source\repos\sa\sa\obj\Debug\net6.0\refint\sa.dll
+C:\Users\ahmed\source\repos\sa\sa\obj\Debug\net6.0\sa.pdb
+C:\Users\ahmed\source\repos\sa\sa\obj\Debug\net6.0\sa.genruntimeconfig.cache
+C:\Users\ahmed\source\repos\sa\sa\obj\Debug\net6.0\ref\sa.dll
